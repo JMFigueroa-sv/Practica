@@ -1,0 +1,41 @@
+.Flex{
+    display: flex;
+}
+
+.App-link {
+    color: #0052ff;
+  }
+  
+.texto{
+    display: flex;
+  }
+  
+.text{
+    margin-left: 15px;
+  }
+
+.Ideaimg{
+  border-bottom: 5%;
+}
+
+.Texto{
+  padding: 2%;
+  margin-top: -2%;
+  margin-bottom: -2%;
+}
+
+.Boton{
+  font-size: 150%;
+  padding: 1%;
+}
+
+.Api{
+  padding: 2%;
+}
+
+.site-calendar-demo-card {
+  width: 300px;
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+  padding: 1%;
+}
